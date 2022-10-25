@@ -1,0 +1,13 @@
+{
+  "body_text": "Want exit?",
+  "choices": [
+    {
+      "text": "Yes",
+      "to_go": "<%= exit(0) %>"
+    },
+    {
+      "text": "No",
+      "to_go": "<%= to_back %>"
+    }
+  ]
+}

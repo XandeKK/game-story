@@ -1,0 +1,13 @@
+{
+  "body_text": "",
+  "choices": [
+    {
+      "text": "Start",
+      "to_go": "<%= to_go('1.json') %>"
+    },
+    {
+      "text": "Exit",
+      "to_go": "<%= to_go('exit.json') %>"
+    }
+  ]
+}
